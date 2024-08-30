@@ -7,8 +7,6 @@ The program compares two .csv files, in the first file are the student votes and
 
 >O programa compara dois ficheiros .csv, no primeiro ficheiro estão os votos dos estudantes e no segundo estão as inscrições válidas. Os parâmetros a comparar são os registos, os dois ficheiros são comparados com base no número de registo, e se o registo for válido, o seu voto contido no ficheiro um é computado no ficheiro do resultado final. Caso contrário, o programa apenas "ignora" os inválidos.
 
-Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
-
 ## 💻 Developers
 
 <a href="https://github.com/mlaurabs"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/mlaurabs" width="50"></a> MARIA LAURA BARBOSA SOARES </br>
